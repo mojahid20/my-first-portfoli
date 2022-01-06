@@ -171,6 +171,11 @@ border-radius: 15px;
   height: 350px;
   border-radius: 20px;
 }
+.info-left{
+  width: 50%;
+}.info-right{
+  width: 50%;
+}
 
 .info-right .btn{
   background: crimson;
@@ -182,7 +187,8 @@ border-radius: 15px;
   font-family: poppins;
   font-weight: 600;
   font-size: 35px;
-}.info-right p{
+}
+.info-right p{
  padding: 30px 0 35px 0;
  width: 80%;
 }
